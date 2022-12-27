@@ -1,6 +1,6 @@
 {
   "name": "ui",
-  "homepage": "https://visra.uk/ui"
+  "homepage": "https://visra.uk/ui",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
